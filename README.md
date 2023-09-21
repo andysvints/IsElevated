@@ -37,7 +37,7 @@ PrivateData      : Microsoft.PowerShell.ConsoleHost+ConsoleColorProxy
 DebuggerEnabled  : True
 IsRunspacePushed : False
 Runspace         : System.Management.Automation.Runspaces.LocalRunspace
-IsElevated       : False
+IsElevated       : False 
 ``````
 
 **[Icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/timer)**
