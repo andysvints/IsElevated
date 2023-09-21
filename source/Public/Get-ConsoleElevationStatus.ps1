@@ -10,17 +10,17 @@ function Get-ConsoleElevationStatus
       .EXAMPLE
       Get-ConsoleElevationStatus
 
-Name : Windows PowerShell ISE Host
-Version : 5.1.17134.407
-InstanceId : e520b701-6509-498c-9727-22336d10f0a4
-UI : System.Management.Automation.Internal.Host.InternalHostUserInterface
-CurrentCulture : en-US
+Name             : ConsoleHost
+Version          : 7.3.6
+InstanceId       : ed83bbad-12c9-4f6f-8ea2-c91761f81e64
+UI               : System.Management.Automation.Internal.Host.InternalHostUserInterface
+CurrentCulture   : en-US
 CurrentUICulture : en-US
-PrivateData : Microsoft.PowerShell.Host.ISE.ISEOptions
-DebuggerEnabled : True
+PrivateData      : Microsoft.PowerShell.ConsoleHost+ConsoleColorProxy
+DebuggerEnabled  : True
 IsRunspacePushed : False
-Runspace : System.Management.Automation.Runspaces.LocalRunspace
-IsElevated : True
+Runspace         : System.Management.Automation.Runspaces.LocalRunspace
+IsElevated       : False
 
         .EXAMPLE
    iselevated -short
